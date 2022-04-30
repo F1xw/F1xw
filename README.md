@@ -33,14 +33,14 @@
 
 <details>
   <summary>:chart: GitHub Stats</summary>
-
+  <br />
   <img alt="My GitHub Score" src="https://github-readme-stats.vercel.app/api?username=F1xw&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
 
 <details>
   <summary>:symbols: Most Used Languages</summary>
-
+<br />
 <img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1xw&layout=compact&theme=dracula" />
 
 </details>
