@@ -4,7 +4,7 @@
 #
 
 
-- 👨‍💻 My current project - [Flink](https://github.com/F1xw/flink-api)
+- 👨‍💻 My current project - [Portfolio](https://github.com/F1xw/portfolio)
 - 📰 My [Porfolio](https://flowei.tech)
 - 🌐 My languages - German, English
 
