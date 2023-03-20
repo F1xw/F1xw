@@ -4,7 +4,7 @@
 #
 
 
-- 👨‍💻 My current project - [Portfolio](https://github.com/F1xw/portfolio)
+- 👨‍💻 My current project - [Nearvents](https://github.com/nearvents)
 - 📰 My [Porfolio](https://flowei.tech)
 - 🌐 My languages - German, English
 
