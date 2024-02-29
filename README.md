@@ -1,5 +1,5 @@
 ## Hi there, I'm Flo!
-### I am a self-taught developer from Germany
+### I am a self-taught developer and CS student from Germany
 
 #
 
@@ -20,10 +20,6 @@
 <img alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/nodejs/nodejs.png" />&nbsp;&nbsp;
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />&nbsp;&nbsp;
 <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png" />&nbsp;&nbsp;
-<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" />&nbsp;&nbsp;
-<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/linux/linux.png" />&nbsp;&nbsp;
-<img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;&nbsp;
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;
 
 
 
